@@ -2,6 +2,15 @@
 
 // My solution
 
+// input: boolean
+// output: string
+
+// algo
+//[x] look at the boolean 
+//[x] check to see if it's true
+//[x] if true, return 'Yes'
+//[x] otherwise, return 'No'
+
 function boolToWord( bool ){
     if (bool === true) {
       return "Yes";
